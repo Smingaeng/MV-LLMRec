@@ -23,4 +23,3 @@ data/amazon_movie/item_intent_emb_3.pkl
 data/amazon_movie/user_conf_emb.pkl
 data/amazon_movie/user_intent_emb_3.pkl
 data/amazon_movie/usr_emb_np.pkl
-data/
