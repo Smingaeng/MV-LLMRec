@@ -73,6 +73,6 @@ The hyperparameters of each model are stored in encoder/config/modelconf.
 
 For fair comparison and reproducibility, we reuse parts of the IRLLRec and RLMRec codebases (training/evaluation routines and related utilities). We also adapt user/item profiling and embedding pipeline components. Source repositories:
 
-> [https://github.com/HKUDS/RLMRec]
-> [https://github.com/wangyu0627/IRLLRec]
+> [RLMRec](https://github.com/HKUDS/RLMRec)
+> [IRLLRec](https://github.com/wangyu0627/IRLLRec)
 
