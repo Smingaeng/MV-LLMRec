@@ -27,6 +27,8 @@ pip install pyyaml tqdm
 **Amazon-book**/ **Amazon-movie**
 
 We use Amazon-Book and Amazon-Movie. Each dataset has train/validation/test splits; early stopping is determined on the validation set.
+You can download intent-based semantic embedding files in the following datasets:
+Amazon-book/ Yelp/ Amazon-movie [GoogleDrive](https://drive.google.com/drive/folders/1rd2cppCrpoydvI1yvg5sIK2S68sBcn70?usp=sharing)
 
 ```plaintext
 - amazon_book (/amazon_movie)
