@@ -27,7 +27,7 @@ pip install pyyaml tqdm
 **Amazon-book**/ **Amazon-movie**
 
 You can download intent-based semantic embedding files in the following datasets:
-Amazon-book/ Yelp/ Amazon-movie [GoogleDrive](https://drive.google.com/drive/folders/1rd2cppCrpoydvI1yvg5sIK2S68sBcn70?usp=sharing)
+Amazon-book/ Amazon-movie [GoogleDrive](https://drive.google.com/drive/folders/1rd2cppCrpoydvI1yvg5sIK2S68sBcn70?usp=sharing)
 
 ```plaintext
 - amazon_book (/amazon_movie)
