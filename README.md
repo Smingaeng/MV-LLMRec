@@ -76,4 +76,6 @@ For fair comparison and reproducibility, we reuse parts of the IRLLRec and RLMRe
 > [RLMRec](https://github.com/HKUDS/RLMRec)
 > 
 > [IRLLRec](https://github.com/wangyu0627/IRLLRec)
+>
+Many thanks to them for providing the training framework and for the active contribution to the open source community.
 
