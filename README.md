@@ -2,7 +2,7 @@
 Minkyung Song, Soyoung Park, Sungsu Lim*
 
 ## Franework
-<img src='framework.png' />
+<img width="2667" height="1500" alt="framework_2-1" src="https://github.com/user-attachments/assets/75a6b044-5256-4b62-90e8-2e9eea7629c4" />
 
 ## Dependencies
 Below is a CUDA 11.x example. (If you use a different CUDA/Torch combo, install the matching torch-scatter/torch-sparse wheels.)
